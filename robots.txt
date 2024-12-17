@@ -1,0 +1,3 @@
+Sitemap: https://Ken-St-James.github.io/sitemap.xml
+User-agent: *
+Disallow: /
