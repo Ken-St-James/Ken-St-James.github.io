@@ -1,0 +1,211 @@
+{
+  "name": "Ken St James",
+  "short_name": "kenstjames-web-www",
+  "lang": "en",
+  "description": "Official Website",
+  "categories": [
+    "website",
+    "official website",
+    "www",
+    "www.kenstjames.com",
+    "static website"
+  ],
+  "id": "com.kenstjames.www",
+  "start_url": "/",
+  "scope": "/",
+  "protocol_handlers": [
+    {
+      "protocol": "web+ksjwww",
+      "url": "/?args=%s"
+    }
+  ],
+  "display": "standalone",
+  "display_override": [
+    "standalone",
+    "minimal-ui",
+    "browser"
+  ],
+  "orientation": "any",
+  "theme_color": "#08598F",
+  "background_color": "#ECE9E6",
+  "prefer_related_applications": false,
+  "related_applications": [
+    {
+      "id": "kenstjames-web-www",
+      "platform": "webapp",
+      "url": "https://www.kenstjames.com/"
+    }
+  ],
+  "screenshots": [
+    {
+      "label": "Welcome",
+      "form_factor": "wide",
+      "src": "https://www.kenstjames.com/screenshots/welcome_1200x630.png",
+      "sizes": "1200x630",
+      "type": "image/png"
+    },
+    {
+      "label": "Welcome",
+      "form_factor": "narrow",
+      "src": "https://www.kenstjames.com/screenshots/welcome_630x1200.png",
+      "sizes": "630x1200",
+      "type": "image/png"
+    },
+    {
+      "label": "Welcome",
+      "src": "https://www.kenstjames.com/screenshots/welcome_1200x1200.png",
+      "sizes": "1200x1200",
+      "type": "image/png"
+    }
+  ],
+  "shortcuts": [
+    {
+      "description": "To the main overview page.",
+      "icons": [
+        {
+          "src": "https://www.kenstjames.com/logos/icon_1200x1200.png",
+          "sizes": "1200x1200",
+          "type": "image/png",
+          "purpose": "any"
+        }
+      ],
+      "name": "Dashboard",
+      "short_name": "Dashboard",
+      "url": "/"
+    }
+  ],
+  "icons": [
+    {
+      "src": "https://www.kenstjames.com/logos/icon_57x57.png",
+      "sizes": "57x57",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "https://www.kenstjames.com/logos/icon_60x60.png",
+      "sizes": "60x60",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "https://www.kenstjames.com/logos/icon_70x70.png",
+      "sizes": "70x70",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "https://www.kenstjames.com/logos/icon_72x72.png",
+      "sizes": "72x72",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "https://www.kenstjames.com/logos/icon_76x76.png",
+      "sizes": "76x76",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "https://www.kenstjames.com/logos/icon_96x96.png",
+      "sizes": "96x96",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "https://www.kenstjames.com/logos/icon_114x114.png",
+      "sizes": "114x114",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "https://www.kenstjames.com/logos/icon_120x120.png",
+      "sizes": "120x120",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "https://www.kenstjames.com/logos/icon_128x128.png",
+      "sizes": "128x128",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "https://www.kenstjames.com/logos/icon_144x144.png",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "https://www.kenstjames.com/logos/icon_150x150.png",
+      "sizes": "150x150",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "https://www.kenstjames.com/logos/icon_152x152.png",
+      "sizes": "152x152",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "https://www.kenstjames.com/logos/icon_180x180.png",
+      "sizes": "180x180",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "https://www.kenstjames.com/logos/icon_192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "https://www.kenstjames.com/logos/icon_310x310.png",
+      "sizes": "310x310",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "https://www.kenstjames.com/logos/icon_384x384.png",
+      "sizes": "384x384",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "https://www.kenstjames.com/logos/icon_480x480.png",
+      "sizes": "480x480",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "https://www.kenstjames.com/logos/icon_512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "https://www.kenstjames.com/logos/icon_1024x1024.png",
+      "sizes": "1024x1024",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "https://www.kenstjames.com/logos/icon_1200x1200.svg",
+      "sizes": "1200x1200",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "https://www.kenstjames.com/logos/icon_1200x1200.png",
+      "sizes": "1200x1200",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "https://www.kenstjames.com/logos/icon-monochrome_1200x1200.svg",
+      "sizes": "1200x1200",
+      "type": "image/svg+xml",
+      "purpose": "maskable"
+    }
+  ]
+}

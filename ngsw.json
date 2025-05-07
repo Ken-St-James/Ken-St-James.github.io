@@ -1,0 +1,139 @@
+{
+  "configVersion": 1,
+  "timestamp": 1746654727649,
+  "index": "https://www.kenstjames.com/root.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "https://www.kenstjames.com/logos/icon-monochrome_1200x1200.svg",
+        "https://www.kenstjames.com/logos/icon.ico",
+        "https://www.kenstjames.com/logos/icon_1024x1024.png",
+        "https://www.kenstjames.com/logos/icon_114x114.png",
+        "https://www.kenstjames.com/logos/icon_1200x1200.png",
+        "https://www.kenstjames.com/logos/icon_1200x1200.svg",
+        "https://www.kenstjames.com/logos/icon_1200x200.svg",
+        "https://www.kenstjames.com/logos/icon_120x120.png",
+        "https://www.kenstjames.com/logos/icon_128x128.png",
+        "https://www.kenstjames.com/logos/icon_144x144.png",
+        "https://www.kenstjames.com/logos/icon_150x150.png",
+        "https://www.kenstjames.com/logos/icon_152x152.png",
+        "https://www.kenstjames.com/logos/icon_180x180.png",
+        "https://www.kenstjames.com/logos/icon_192x192.png",
+        "https://www.kenstjames.com/logos/icon_310x150.png",
+        "https://www.kenstjames.com/logos/icon_310x310.png",
+        "https://www.kenstjames.com/logos/icon_384x384.png",
+        "https://www.kenstjames.com/logos/icon_480x480.png",
+        "https://www.kenstjames.com/logos/icon_512x512.png",
+        "https://www.kenstjames.com/logos/icon_57x57.png",
+        "https://www.kenstjames.com/logos/icon_60x60.png",
+        "https://www.kenstjames.com/logos/icon_70x70.png",
+        "https://www.kenstjames.com/logos/icon_72x72.png",
+        "https://www.kenstjames.com/logos/icon_76x76.png",
+        "https://www.kenstjames.com/logos/icon_96x96.png",
+        "https://www.kenstjames.com/main-ODNHP5NW.js",
+        "https://www.kenstjames.com/manifest.webmanifest",
+        "https://www.kenstjames.com/polyfills-FFHMD2TL.js",
+        "https://www.kenstjames.com/screenshots/welcome_1200x1200.png",
+        "https://www.kenstjames.com/screenshots/welcome_1200x630.png",
+        "https://www.kenstjames.com/screenshots/welcome_630x1200.png",
+        "https://www.kenstjames.com/scripts-OFN3MD4B.js",
+        "https://www.kenstjames.com/styles-CZ5QF26S.css",
+        "https://www.kenstjames.com/thumbnails/default_1200x1200.png",
+        "https://www.kenstjames.com/thumbnails/default_1200x630.png",
+        "https://www.kenstjames.com/thumbnails/default_480x480.png"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "https://www.kenstjames.com/.nojekyll",
+        "https://www.kenstjames.com/CNAME",
+        "https://www.kenstjames.com/backgrounds/animated-banner-clean_7680x4320.svg",
+        "https://www.kenstjames.com/browserconfig.xml",
+        "https://www.kenstjames.com/robots.txt",
+        "https://www.kenstjames.com/root.html",
+        "https://www.kenstjames.com/sitemap.xml",
+        "https://www.kenstjames.com/sitemaps/sitemap-page-1.xml"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "https://www.kenstjames.com/.nojekyll": "d987d848270a8d9e4ce5d5334542f7af01c4fbad",
+    "https://www.kenstjames.com/CNAME": "eb5122e36df3763b9461921bc76ca4fdee8cf148",
+    "https://www.kenstjames.com/backgrounds/animated-banner-clean_7680x4320.svg": "747ddeb0e929600aa617ffb8be0509fa0168b7ae",
+    "https://www.kenstjames.com/browserconfig.xml": "a64913ad97506ee9f35d0ed12c912eaa476390ad",
+    "https://www.kenstjames.com/logos/icon-monochrome_1200x1200.svg": "8bcb3a523d78e8fa3e6ad08a517366af8b6b5ca5",
+    "https://www.kenstjames.com/logos/icon.ico": "c990dfb2f9b2f518894acccc2b110ba26e35e520",
+    "https://www.kenstjames.com/logos/icon_1024x1024.png": "f2942bbb066929b75d80be55e143448b280c3079",
+    "https://www.kenstjames.com/logos/icon_114x114.png": "10d2708d7156f4c591122cfe11e7295df7de6cea",
+    "https://www.kenstjames.com/logos/icon_1200x1200.png": "3e0c8e2f9357045ef1a9184d417a130aed8bea21",
+    "https://www.kenstjames.com/logos/icon_1200x1200.svg": "148b23731eac8e577b3d425d67d4089de307a497",
+    "https://www.kenstjames.com/logos/icon_1200x200.svg": "28b79f41f675cb95b19562a6150ad242a1069eaf",
+    "https://www.kenstjames.com/logos/icon_120x120.png": "fcd4ae541f75375f2a83a8d7790aeef156e5c99c",
+    "https://www.kenstjames.com/logos/icon_128x128.png": "be92f63adddaa6630cd4deeb076ca778ebef1273",
+    "https://www.kenstjames.com/logos/icon_144x144.png": "be447e4a0399dc38eb5cd337de97f1c325eb2a29",
+    "https://www.kenstjames.com/logos/icon_150x150.png": "85cda1f1ede4cd2a7006e7823980d2b47add1c3e",
+    "https://www.kenstjames.com/logos/icon_152x152.png": "ff56b6fcfa9cc0596116060431f4d094778f01d6",
+    "https://www.kenstjames.com/logos/icon_180x180.png": "0827fe7df8e3ff62db3eb5f302521184e466427d",
+    "https://www.kenstjames.com/logos/icon_192x192.png": "8becfbeb4d617e487b7cb04abcd62ccdc867e850",
+    "https://www.kenstjames.com/logos/icon_310x150.png": "76d32dd5ffd8b216910403ed0901259339cf8fbf",
+    "https://www.kenstjames.com/logos/icon_310x310.png": "01b8030aad9915c0820f586dc625ae8fec89469b",
+    "https://www.kenstjames.com/logos/icon_384x384.png": "bed7a88a5fa6e354b1120260586ffe17b9548d83",
+    "https://www.kenstjames.com/logos/icon_480x480.png": "2c9c8eb1028774e27afde5f7fb987026f0ed8df9",
+    "https://www.kenstjames.com/logos/icon_512x512.png": "5b67b189a63cb4849fdcd03014108c49c4a86abe",
+    "https://www.kenstjames.com/logos/icon_57x57.png": "5a4973c33a423d24f4e6239d12d962de5d1ae349",
+    "https://www.kenstjames.com/logos/icon_60x60.png": "7475f7774a2c39faa8b5b7988987090f62ff3595",
+    "https://www.kenstjames.com/logos/icon_70x70.png": "07aa5b207ca4d7bf8bcfdff5aab9dcdc6979a6ea",
+    "https://www.kenstjames.com/logos/icon_72x72.png": "10dd94b2cbd598d7c0f159b73dee2ce0b08488a4",
+    "https://www.kenstjames.com/logos/icon_76x76.png": "73353d10125e87b9949526ff7f0c5603a8e7ef62",
+    "https://www.kenstjames.com/logos/icon_96x96.png": "af28e8bd9b95bacf6809b2891fbc692832d0b218",
+    "https://www.kenstjames.com/main-ODNHP5NW.js": "a0a8c6c99a45ec3a4bc5a882e1c1b66f3fac12d3",
+    "https://www.kenstjames.com/manifest.webmanifest": "45dc64f03d0e53cc51f4fab5615385551cc32ace",
+    "https://www.kenstjames.com/polyfills-FFHMD2TL.js": "f49b49a155bc7d192db62a4c15d0a612b460a667",
+    "https://www.kenstjames.com/robots.txt": "7e31db58a704d9fb767ffffb58a28cfaf4b3459d",
+    "https://www.kenstjames.com/root.html": "eddb4f337ccf6d6397f72132e53fa016ddb48110",
+    "https://www.kenstjames.com/screenshots/welcome_1200x1200.png": "669968ab5a03c98b722852cacc5d304c2b794c3c",
+    "https://www.kenstjames.com/screenshots/welcome_1200x630.png": "931d85183299f7e51f78fa03a43d317bf80f0c26",
+    "https://www.kenstjames.com/screenshots/welcome_630x1200.png": "3397ca0a577e5f084032383806e2f3a3a15bf1b4",
+    "https://www.kenstjames.com/scripts-OFN3MD4B.js": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "https://www.kenstjames.com/sitemap.xml": "fa343e1dd437734177cda07375479df49fb2c75f",
+    "https://www.kenstjames.com/sitemaps/sitemap-page-1.xml": "014bc10ce99535ea6a981a7fe8dcd15ebf829ccc",
+    "https://www.kenstjames.com/styles-CZ5QF26S.css": "bc68bb4a187c544539129c6c80d55560e3f71bd9",
+    "https://www.kenstjames.com/thumbnails/default_1200x1200.png": "669968ab5a03c98b722852cacc5d304c2b794c3c",
+    "https://www.kenstjames.com/thumbnails/default_1200x630.png": "931d85183299f7e51f78fa03a43d317bf80f0c26",
+    "https://www.kenstjames.com/thumbnails/default_480x480.png": "55f2f272dce0ff5431201bf7c41f368a577c7252"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ],
+  "navigationRequestStrategy": "performance"
+}

@@ -1,0 +1,3 @@
+Sitemap: https://www.kenstjames.com/sitemap.xml
+User-agent: *
+Disallow: /
